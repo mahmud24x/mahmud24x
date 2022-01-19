@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mahmud24x
+- 👋 Hi, I’m Mahmud
 - 👀 I’m interested in ... Mechanical Engineering
 - 🌱 I’m currently learning ... Phython and Kotlin
 - 💞️ I’m looking to collaborate on ... Android Development
